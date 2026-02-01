@@ -27,6 +27,6 @@ $(BIN) $(OBJ_DIR):
 	mkdir -p $@
 
 clean:
-	rm -rf $(OBJ_DIR) $(BIN)
+	rm -rf $(OBJ_DIR) $(BIN) compile_commands.json
 
 .PHONY: all clean
