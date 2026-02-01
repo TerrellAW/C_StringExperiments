@@ -1,4 +1,4 @@
-## Running the Program
+## Building the Program
 
 With `make` and `bear` installed on the system, run:
 
